@@ -253,7 +253,6 @@ Ce travail est sous licence internationale Creative Commons Attribution 4.0.
 
 Agis Anastasopoulos / [@agisanast](https://twitter.com/agisanast) / http://agis.io
 
-
-# Traduccion
+# Traduction
 
 Peio Roth / [@pierreroth64](https://twitter.com/pierreroth64)
