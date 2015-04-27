@@ -219,7 +219,7 @@ ouvrez une pull request.
 
 * Il y a de multiples workflows et chacun a ses propres forces et faiblesses.
   Qu'un workflow vous convienne dépendra de l'équipe, du projet et de vos
-  procéddures de développement.
+  procédures de développement.
 
   Ceci dit, il est important de réllement *choisir* un workflow et de s'y tenir.
 
