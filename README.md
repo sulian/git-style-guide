@@ -9,11 +9,13 @@ Des traductions de ce guide sont disponibles dans les langues suivantes:
 
 * [Chinois (Simplifié)](https://github.com/aseaday/git-style-guide)
 * [Chinois (Traditionnel)](https://github.com/JuanitoFatas/git-style-guide)
+* [Français](https://github.com/pierreroth64/git-style-guide)
+* [Grec](https://github.com/grigoria/git-style-guide)
 * [Japonais](https://github.com/objectx/git-style-guide)
 * [Coréen](https://github.com/ikaruce/git-style-guide)
 * [Portugais](https://github.com/guylhermetabosa/git-style-guide)
+* [Thailandais](https://github.com/zondezatera/git-style-guide)
 * [Ukrainien](https://github.com/denysdovhan/git-style-guide)
-* [Français](https://github.com/pierreroth64/git-style-guide)
 
 Si vous souhaitez contribuer, merci de vous lancer! Forkez le projet et
 ouvrez une pull request.
