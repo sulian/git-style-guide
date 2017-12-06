@@ -25,8 +25,8 @@ ouvrez une pull request.
 1. [Branches](#branches)
 2. [Commits](#commits)
   1. [Messages](#messages)
-3. [Fusionner](#merging)
-4. [Divers](#misc)
+3. [Fusionner](#fusionner)
+4. [Divers](#divers)
 
 ## Branches
 
