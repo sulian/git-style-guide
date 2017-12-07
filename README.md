@@ -60,7 +60,7 @@ ouvrez une pull request.
   $ git checkout -b feature-a/nick   # branche personnelle de Nick
   ```
 
-  Fusionnez les branches personnelles dans la branche d'équipe (cf. ["Fusion"](#merging)).
+  Fusionnez les branches personnelles dans la branche d'équipe (cf. ["Fusion"](#fusionner)).
   Eventuellement, la branche d'équipe sera fusionnée dans "master".
 
 * Supprimez votre branche du dépôt maître après l'avoir fusionnée (à moins
